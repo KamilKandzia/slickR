@@ -3,6 +3,7 @@
   color: #419be0;
   background: transparent;
   width: 100%;
+  height: auto;
 }
 
 .slick-list {
@@ -12,4 +13,5 @@
 
 .slick-slide img {
 	width: auto !important;
+	height: auto !important;
 }
